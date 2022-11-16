@@ -1,6 +1,6 @@
 ---
 name: Junhwan-Articles-Table
 actor: junhwanlee2316
-pull_request_url: https://github.com/ucsb-cs156-f22/team03-f22-7pm-1/pull/72
-pull_request_num: 72
+pull_request_url: https://github.com/ucsb-cs156-f22/team03-f22-7pm-1/pull/73
+pull_request_num: 73
 ---
